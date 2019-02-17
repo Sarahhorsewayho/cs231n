@@ -1,2 +1,2 @@
 # cs231n
-assignment of Stanford cs231n course 
+assignments of Stanford cs231n course 
